@@ -1,7 +1,7 @@
 sqlite> .open student.db
 
 --->1. create table 
-sqlite>    create table stud(
+sqlite>    create table stud1(
    ...>      id int primary key,
    ...>      name text
    ...> );
